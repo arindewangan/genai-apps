@@ -11,6 +11,7 @@ Follow these instructions to set up and run the project on your local machine.
 First, clone the repository from GitHub:
 
 `git clone https://github.com/arindewangan/genai-apps`
+
 `cd genai-apps`
 
 
